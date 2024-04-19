@@ -11,6 +11,7 @@ import os
 #llm
 @st.cache_data
 def init_llm():
+   # TODO dowloading the model 
    return LlamaCpp(model_path = '/Users/sadiakhanrupa/Bootcamp Main Phase/Chapter_8_generative_Ai/Model/faiss_index/mistral-7b-instruct-v0.1.Q4_K_M.gguf',
                   max_tokens = 2000,
                   temperature = 0.1,
@@ -33,7 +34,7 @@ embeddings_folder = current_folder
 
 # Create an instance of the HuggingFaceEmbeddings class
 embeddings = HuggingFaceEmbeddings(model_name=embedding_model, cache_folder=embeddings_folder)
-
+#faiss_index2
 
 # load Vector Database
 # allow_dangerous_deserialization is needed. Pickle files can be modified to deliver a malicious payload that results in execution of arbitrary code on your machine
