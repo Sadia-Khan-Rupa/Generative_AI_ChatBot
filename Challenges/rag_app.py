@@ -9,7 +9,7 @@ import os
 
 
 #llm
-@st.cache
+@st.cache_data
 def init_llm():
    return LlamaCpp(model_path = '/Users/sadiakhanrupa/Bootcamp Main Phase/Chapter_8_generative_Ai/Model/faiss_index/mistral-7b-instruct-v0.1.Q4_K_M.gguf',
                   max_tokens = 2000,
@@ -43,7 +43,7 @@ vector_db = FAISS.load_local("/Users/sadiakhanrupa/Bootcamp Main Phase/Chapter_8
 retriever = vector_db.as_retriever(search_kwargs={"k": 2})
 
 #memory
-@st.cache
+@st.cache_data
 def init_memory(_llm):
    return ConversationBufferMemory(
       llm=llm,
