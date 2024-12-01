@@ -37,7 +37,7 @@ This project provides a career-focused chatbot using LangChain, LlamaCpp, and St
 ---
 
 ## ✨ **Demo**  
-![Demo of Career Chatbot](path/to/your/image.jpg)
+![Demo of Career Chatbot](1*rA7Zm7BtwB5dJctJRCIwuA.webp)
 
 
 
