@@ -13,7 +13,8 @@ A helpful chatbot for career advice, networking tips, and professional growth.
 
 ## 📋 **Table of Contents**  
 - [**About the Project**](#about-the-project)  
-- [**Features**](#features)  
+- [**Features**](#features)
+- [**Demo**](#demo)  
 - [**Installation**](#installation)  
 - [**Usage**](#usage)  
 - [**Contributing**](#contributing)  
@@ -34,6 +35,10 @@ This project provides a career-focused chatbot using LangChain, LlamaCpp, and St
 - Keeps conversation history for context-aware responses.  
 
 ---
+
+## ✨ **Demo**  
+![Demo of Career Chatbot]([https://example.com/path/to/your/image.jpg](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*rA7Zm7BtwB5dJctJRCIwuA.jpeg))
+
 
 ## ⚙️ **Installation**  
 
