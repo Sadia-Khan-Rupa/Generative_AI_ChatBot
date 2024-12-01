@@ -17,7 +17,6 @@ A helpful chatbot for career advice, networking tips, and professional growth.
 - [**Installation**](#installation)  
 - [**Usage**](#usage)  
 - [**Contributing**](#contributing)  
-- [**License**](#license)  
 - [**Contact**](#contact)  
 - [**Acknowledgments**](#acknowledgments)  
 
@@ -42,3 +41,31 @@ This project provides a career-focused chatbot using LangChain, LlamaCpp, and St
    ```bash
    git clone https://github.com/your-username/career-chatbot.git  
    cd career-chatbot  
+
+## 🚀 **Usage**
+
+Run the Streamlit app:
+
+streamlit run app.py  
+Open your browser and go to http://localhost:8501.
+Ask career-related questions and get personalized advice!
+
+## 🤝 **Contributing**
+
+We welcome contributions! To get started:
+
+Fork the repository.
+Create a new branch: git checkout -b feature/new-feature.
+Commit your changes: git commit -m "Add new feature".
+Push to the branch: git push origin feature/new-feature.
+Open a Pull Request.
+
+## 📞 **Contact**
+
+Email: khanrupasadia@gmail.com
+LinkedIn: [YourUsername](https://www.linkedin.com/in/sadia-khan-rupa/)
+
+## 🙌 **Acknowledgments**
+
+Special thanks to the LangChain and Streamlit communities for their invaluable tools and resources.
+
