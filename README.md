@@ -24,7 +24,7 @@ A Streamlit-based AI chatbot designed to provide career guidance and networking 
 11. [Acknowledgments](#acknowledgments)  
 
 
-💡 ##About the Project
+💡 ## About the Project
 This chatbot assists users with career development strategies, providing insightful advice based on real-world scenarios. It uses advanced language models (Llama) and a FAISS-based vector database to retrieve and deliver personalized information.
 
 🌐 Demo
