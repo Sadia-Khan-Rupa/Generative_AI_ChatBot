@@ -6,6 +6,55 @@ On the other hand, a career counselling chatbot would be incredibly helpful at t
 
 The project is described step by step here [Career ChatBot](https://medium.com/p/41bafc68bd3a#1a98-ddb8fe3909af)
 
+# 🚀 **Career Consultant Chatbot**  
+
+A Streamlit-based AI chatbot designed to provide career guidance and networking advice using Llama models and FAISS.
+
+---
+
+## 📋 **Table of Contents**  
+1. [About the Project](#about-the-project)  
+2. [Demo](#demo)  
+3. [Features](#features)  
+4. [Getting Started](#getting-started)  
+   - [Prerequisites](#prerequisites)  
+   - [Installation](#installation)  
+5. [Usage](#usage)  
+6. [Customization](#customization)  
+7. [Technologies Used](#technologies-used)  
+8. [Contributing](#contributing)  
+9. [License](#license)  
+10. [Contact](#contact)  
+11. [Acknowledgments](#acknowledgments)  
+
+## 💡 **About the Project**  
+This chatbot assists users with career development strategies, providing insightful advice based on real-world scenarios. It uses advanced language models (Llama) and a FAISS-based vector database to retrieve and deliver personalized information.
+---
+
+## ✨ **Features**  
+- Provides personalized career advice.  
+- Retrieves answers from a pre-built knowledge base.  
+- Engages users with humor and practical tips.  
+- Keeps conversation history for context-aware responses.  
+
+---
+
+## ⚙️ **Installation**  
+
+1. **Clone the repository:**  
+   ```bash
+   git clone https://github.com/your-username/career-chatbot.git  
+   cd career-chatbot  
+
+
+
+
+
+
+
+
+
+
 A Streamlit-based AI chatbot designed to provide career guidance and networking advice using Llama models and FAISS.
 
 ## 📋 Table of Contents  
