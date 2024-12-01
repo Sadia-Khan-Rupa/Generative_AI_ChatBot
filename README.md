@@ -63,7 +63,7 @@ Open a Pull Request.
 ## 📞 **Contact**
 
 Email: khanrupasadia@gmail.com
-LinkedIn: [YourUsername](https://www.linkedin.com/in/sadia-khan-rupa/)
+LinkedIn: [Sadia LinkedIn](https://www.linkedin.com/in/sadia-khan-rupa/)
 
 ## 🙌 **Acknowledgments**
 
